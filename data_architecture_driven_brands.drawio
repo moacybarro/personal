@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-19T17:38:44.260Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SvmK8NbHWjU_-eukS2Je" version="21.3.8" type="github" pages="4">
+<mxfile modified="2023-06-19T18:20:57.694Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="B-xIafCWLUARhPBTBhg7" version="21.3.8" type="github" pages="4">
   <diagram id="DU3acH7bdgciBLe8fEct" name="Candidate Architecture">
     <mxGraphModel dx="2284" dy="1883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -882,7 +882,7 @@
         <mxCell id="GJmw3Cww8weYgp8sk1bG-4" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Prod Project&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GJmw3Cww8weYgp8sk1bG-5">
           <mxGeometry x="80" y="4" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="GJmw3Cww8weYgp8sk1bG-6" value="" style="group;fillColor=#F8CECC;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
+        <mxCell id="GJmw3Cww8weYgp8sk1bG-6" value="" style="group;fillColor=default;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="600" y="200" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJmw3Cww8weYgp8sk1bG-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="GJmw3Cww8weYgp8sk1bG-6">
